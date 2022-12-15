@@ -9,12 +9,14 @@
 This is a weather app which uses Open Weather to provide a 5 day weather forecast for a chosen city. I must successfully hit the acceptance criteria listed below in order to pass this assignment.
 
 ### Screenshot
+[Screenshot (18)](https://user-images.githubusercontent.com/116799866/207966500-579ea9ed-c7aa-490f-874b-acf3326aba8a.png)
 
 ## Acceptance Criteria
 ***
 - AS A traveler
 - I WANT to see the weather outlook for multiple cities
-- SO THAT I can plan a trip accordingly
+- SO THAT I can plan a trip accordingly!
+
 - GIVEN a weather dashboard with form inputs
 - WHEN I search for a city
 - THEN I am presented with current and future conditions for that city and that city is added to the search history
@@ -27,4 +29,4 @@ This is a weather app which uses Open Weather to provide a 5 day weather forecas
 
 ## Link to Deployed Action
 ***
-link goes here
+
